@@ -1,8 +1,6 @@
 /*
-
 - server create krna
 - server ko config krna
-
 */
 
 const express = require("express");
